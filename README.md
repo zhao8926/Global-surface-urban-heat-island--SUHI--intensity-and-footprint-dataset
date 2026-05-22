@@ -6,7 +6,7 @@ This repository contains the core code, analytical pipelines, and visualization 
 Copyright: Guorong Zhao, School of Environmental Science&Engineering, Tianjin University
 Contact: zhao_8926@tju.edu.cn, WeChat: lyxq_zhao
 Primary version was made in April 15, 2026
-Last updated ：May 21, 2026
+Last updated ：May 22, 2026
 
 The key functionalities include:
 ⦁	City-level and latitudinal statistical profiling of the global SUHI dataset, focusing on both SUHII and its temporal trends.
