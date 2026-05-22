@@ -4,8 +4,11 @@ The global surface urban heat island (SUHI) footprint has expanded dramatically 
 This repository contains the core code, analytical pipelines, and visualization procedures supporting the research presented in the paper titled “A new global surface urban heat island dataset reveals significant footprint expansion but stable intensity.” The project focuses on applying an iterative thermal algorithm (ITA) using radial logistic fitting to explicitly resolve the spatial decay of land surface temperature, enabling the simultaneous delineation of the SUHI footprint (SUHIF) and quantification of SUHI intensity (SUHII) across >30,000 cities worldwide.
 
 Copyright: Guorong Zhao, School of Environmental Science&Engineering, Tianjin University
+
 Contact: zhao_8926@tju.edu.cn, WeChat: lyxq_zhao
+
 Primary version was made in April 15, 2026
+
 Last updated ：May 22, 2026
 
 The key functionalities include:
